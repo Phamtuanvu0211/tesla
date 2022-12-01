@@ -1,0 +1,7 @@
+.pic{
+    flex: auto;
+    display: flex;
+    justify-content:center;
+    overflow: hidden;
+    margin-top: 100px;
+}
